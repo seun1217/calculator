@@ -1,0 +1,16 @@
+#current-display {
+  border: 1px solid;
+  height: 18px;
+  width: 150px;
+  margin-bottom: -15px; }
+
+#all-display {
+  border: 1px solid;
+  height: 18px;
+  width: 150px;
+  margin-bottom: -15px; }
+
+#zero {
+  width: 55px; }
+
+/*# sourceMappingURL=calculator.css.map */
